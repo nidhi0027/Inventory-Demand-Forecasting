@@ -1,0 +1,12 @@
+name: /Users/nidhisharma/Documents/100_days_100_projects/3_Inventory_Demand_Forecasting/env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - numpy
+  - pandas
+  - seaborn
+  - matplotlib
+  - scikit-learn
+  - jupyterlab
